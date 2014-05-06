@@ -1,3 +1,5 @@
-This repository contains the markdown source files for our Assessment 4 manual. 
+This repository contains the Markdown source files for our Assessment 4 manual. 
 
-To generate a pdf (as output/bhdmanual.pdf) run `make pdf` in the directory containing this readme file.
+The final version of the manual is [online as a PDF on our team website](http://teambhd.github.io/downloads/bhdmanual.pdf).
+
+To generate a PDF (as output/bhdmanual.pdf) run `make` in the directory containing this readme file.
